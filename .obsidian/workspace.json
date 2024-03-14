@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Effective Kotlin.md",
-                "mode": "source",
+                "file": "Books/Effective Kotlin/Item 1. 가변성을 제한하라.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8f1f03cfbdf1b098",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Effective Kotlin.md",
+                "file": "Books/Effective Kotlin/Item 1. 가변성을 제한하라.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Effective Kotlin.md",
+                "file": "Books/Effective Kotlin/Item 1. 가변성을 제한하라.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,15 +126,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Effective Kotlin.md"
+                "file": "Books/Effective Kotlin/Item 1. 가변성을 제한하라.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,11 +148,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a00ed70ad1857f29",
+  "active": "81b592a563c47517",
   "lastOpenFiles": [
-    "Books/Effective Kotlin.md",
-    "Untitled.canvas",
+    "Pasted image 20240314230503.png",
     "Untitled.md",
+    "Books/Effective Kotlin/Item 1. 가변성을 제한하라.md",
+    "Books/Effective Kotlin.md",
+    "Books/Effective Kotlin",
+    "Untitled.canvas",
     "Books"
   ]
 }
