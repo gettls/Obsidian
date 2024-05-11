@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f9590dcbaa828061",
+        "id": "23a9df34cb994140",
         "type": "tabs",
         "children": [
           {
-            "id": "81b592a563c47517",
+            "id": "83db907ba64512a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Effective Kotlin/Item 1. 가변성을 제한하라.md",
-                "mode": "preview",
+                "file": "Books/Effective Kotlin/Item 26. 함수 내부의 추상화 레벨을 통일하라.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 310.5,
     "collapsed": true
   },
   "right": {
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Effective Kotlin/Item 1. 가변성을 제한하라.md",
+                "file": "Books/Effective Kotlin/Item 26. 함수 내부의 추상화 레벨을 통일하라.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Effective Kotlin/Item 1. 가변성을 제한하라.md",
+                "file": "Books/Effective Kotlin/Item 26. 함수 내부의 추상화 레벨을 통일하라.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Effective Kotlin/Item 1. 가변성을 제한하라.md"
+                "file": "Books/Effective Kotlin/Item 26. 함수 내부의 추상화 레벨을 통일하라.md"
               }
             }
           }
@@ -148,10 +148,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "81b592a563c47517",
+  "active": "83db907ba64512a1",
   "lastOpenFiles": [
+    "Books/Effective Kotlin/Item 19. knowledge를 반복하여 재사용하지 말라.md",
+    "Books/Effective Kotlin/Item 26. 함수 내부의 추상화 레벨을 통일하라.md",
+    "Books/Effective Kotlin/Item 17. 이름 있는 아규먼트를 사용하라.md",
+    "Books/Effective Kotlin/Item 18. 코딩 컨벤션을 지켜라.md",
+    "Books/Effective Kotlin/Item 16. 프로퍼티는 동작이 아니라 상태를 나타내야 한다..md",
+    "Books/Effective Kotlin/Item 15. 리시버를 명시적으로 참조하라.md",
+    "Books/Effective Kotlin/Item 2. 변수의 스코프를 최소화하라.md",
+    "Books/Effective Kotlin/Item 3. 최대한 플랫폼 타입을 사용하지 말라.md",
+    "Books/Effective Kotlin/Item 4. inferred 타입으로 리턴하지 말라.md",
+    "Books/Effective Kotlin/Item 5. 예외를 활용해 코드에 제한을 걸어라.md",
+    "Books/Effective Kotlin/Item 6. 사용자 정의 오류보다는 표준 오류를 사용하라.md",
+    "Books/Effective Kotlin/Item 8. 적절하게 null을 처리하라.md",
+    "Books/Effective Kotlin/Item 9. use를 사용하여 리소스를 닫아라.md",
+    "Books/Effective Kotlin/Item 10. 단위 테스트를 만들어라.md",
+    "Books/Effective Kotlin/Item 11. 가독성을 목표로 설계하라.md",
+    "Books/Effective Kotlin/Item 13. Unit을 리턴하지 말라.md",
+    "Books/Effective Kotlin/Item 12. 연산자 오버로드를 할 때는 의미에 맞게 사용하라.md",
+    "Books/Effective Kotlin/Item 21. 일반적인 프로퍼티 패턴은 프로퍼티 위임으로 만들어라.md",
+    "Books/Effective Kotlin/Item 14. 변수타입이 명확하지 않은 경우 확실하게 지정하라.md",
+    "Books/Effective Kotlin/Item 20. 일반적인 알고리즘을 반복해서 구현하지 말라.md",
+    "Books/Effective Kotlin/Item 24. 제네릭 타입과 variance 한정자를 활용하라.md",
+    "Books/Effective Kotlin/Item 23. 타입 파라미터의 섀도잉을 피하라.md",
+    "Books/Effective Kotlin/Item 22. 일반적인 알고리즘을 구현할 때 제네릭을 사용하라.md",
     "Pasted image 20240314230503.png",
-    "Untitled.md",
+    "Books/Effective Kotlin/Item 7. 결과 부족이 발생한 경우 null과 Failure를 사용하라.md",
     "Books/Effective Kotlin/Item 1. 가변성을 제한하라.md",
     "Books/Effective Kotlin.md",
     "Books/Effective Kotlin",
