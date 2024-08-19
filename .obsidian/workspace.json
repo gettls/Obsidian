@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bb999906c06b25b7",
+        "id": "a1e099e9e26fc2fd",
         "type": "tabs",
         "children": [
           {
-            "id": "ebd9c6019cbd174c",
+            "id": "39997ec1ec934144",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Effective Kotlin/Item 11. 가독성을 목표로 설계하라.md",
+                "file": "Study/Python/Contents.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Effective Kotlin/Item 11. 가독성을 목표로 설계하라.md",
+                "file": "Study/Python/Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Effective Kotlin/Item 11. 가독성을 목표로 설계하라.md",
+                "file": "Study/Python/Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Effective Kotlin/Item 11. 가독성을 목표로 설계하라.md"
+                "file": "Study/Python/Contents.md"
               }
             }
           }
@@ -147,14 +147,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6568077918b460e4",
+  "active": "39997ec1ec934144",
   "lastOpenFiles": [
+    "Books/Kotlin in Action/Contents.md",
+    "Study/Python/Contents.md",
+    "Study/Java&Kotlin/@JsonFormat.md",
+    "Study/Java&Kotlin/JVM.md",
+    "Conference/TOSS. 서버 증설 없이 처리하는 대규모 트래픽.md",
+    "Conference/Additional/Redis 데이터 압축.md",
+    "Study/CS/OS_ File System.md",
+    "Study/Java&Kotlin/Digest.md",
+    "Study/Java&Kotlin/Virtual Thread.md",
+    "Study/Java&Kotlin/@JsonIgnoreProperties(ignoreUnknown=true).md",
+    "Study/Linux/namespace.md",
+    "Study/Linux/memory 관리.md",
+    "Study/Linux/epoll.md",
+    "TB.md",
+    "Study/Python",
+    "Study/Java&Kotlin/Enum to Object & Object to Enum.md",
+    "Books/Effective Kotlin/Item 11. 가독성을 목표로 설계하라.md",
+    "Books/Kotlin in Action",
+    "Study/kotlin/Untitled.md",
+    "Study/kotlin",
     "Study/Spring",
     "Books/Effective Kotlin/Item 9. use를 사용하여 리소스를 닫아라.md",
     "Books/Effective Kotlin/Item 28. API 안정성을 확인하라.md",
     "Books/Effective Kotlin/Item 30..md",
-    "Study/Java/Digest.md",
-    "Study/Java/Virtual Thread.md",
     "Images/Pasted image 20240628011525.png",
     "Images/스크린샷 2024-06-24 오후 11.13.48.png",
     "Pasted image 20240628110132.png",
@@ -163,38 +181,20 @@
     "Pasted image 20240628110112.png",
     "VM & Container.md",
     "Pasted image 20240628110523.png",
-    "Study/Linux/namespace.md",
     "Study/Linux/Untitled.md",
-    "Study/CS/OS_ File System.md",
-    "Study/Linux/epoll.md",
-    "Study/Linux/memory 관리.md",
     "Study/Linux",
     "Study/Linux/Untitled",
     "Study/CS",
     "Images/Pasted image 20240314230503.png",
-    "Conference/Additional/Redis 데이터 압축.md",
     "Images",
-    "Conference/TOSS. 서버 증설 없이 처리하는 대규모 트래픽.md",
     "Conference/Additional",
     "Study/Java/ㅓ프.md",
     "Study/Java/Reentrant Lock.md",
     "Images/스크린샷 2024-06-01 오후 2.58.02.png",
     "Images/스크린샷 2024-06-01 오후 2.46.42.png",
     "Study/Untitled.md",
-    "Study/Java",
-    "Study",
+    "Study/Java&Kotlin",
     "Books/Effective Kotlin/Item 29. 외부 API를 랩(wrap)해서 사용하라.md",
-    "Untitled/Untitled",
-    "Conference",
-    "Books/Effective Kotlin/Item 27. 변화로부터 코드를 보호하려면 추상화를 사용하라.md",
-    "Books/Effective Kotlin/Item 26. 함수 내부의 추상화 레벨을 통일하라.md",
-    "Books/Effective Kotlin/Item 19. knowledge를 반복하여 재사용하지 말라.md",
-    "Books/Effective Kotlin/Item 17. 이름 있는 아규먼트를 사용하라.md",
-    "Books/Effective Kotlin/Item 18. 코딩 컨벤션을 지켜라.md",
-    "Books/Effective Kotlin/Item 16. 프로퍼티는 동작이 아니라 상태를 나타내야 한다..md",
-    "Books/Effective Kotlin/Item 15. 리시버를 명시적으로 참조하라.md",
-    "Books/Effective Kotlin/Item 2. 변수의 스코프를 최소화하라.md",
-    "Books/Effective Kotlin",
     "Untitled.canvas"
   ]
 }
