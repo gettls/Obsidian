@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a1e099e9e26fc2fd",
+        "id": "ee024fc5f76bb57a",
         "type": "tabs",
         "children": [
           {
-            "id": "39997ec1ec934144",
+            "id": "edacc114b9b89fb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Python/Contents.md",
+                "file": "Books/대규모 시스템 설계 기초 2/Contents.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/Python/Contents.md",
+                "file": "Books/대규모 시스템 설계 기초 2/Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/Python/Contents.md",
+                "file": "Books/대규모 시스템 설계 기초 2/Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/Python/Contents.md"
+                "file": "Books/대규모 시스템 설계 기초 2/Contents.md"
               }
             }
           }
@@ -147,9 +147,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39997ec1ec934144",
+  "active": "edacc114b9b89fb1",
   "lastOpenFiles": [
+    "Pasted image 20241011113505.png",
+    "Pasted image 20241011113459.png",
+    "Pasted image 20241011113245.png",
+    "Pasted image 20241011112206.png",
+    "Books/대규모 시스템 설계 기초 2/chapter7.drawio.crswap",
+    "Books/대규모 시스템 설계 기초 2/chapter7.drawio",
+    "Study/Spring/Reactor Context.md",
+    "Study/Java&Kotlin/Untitled.md",
+    "Books/대규모 시스템 설계 기초 2/Contents.md",
+    "Images/Pasted image 20240927000450.png",
+    "Images/Pasted image 20240927000438.png",
+    "Images/Pasted image 20240926235959.png",
+    "Images/Pasted image 20240926234214.png",
     "Books/Kotlin in Action/Contents.md",
+    "Books/대규모 시스템 설계 기초 2",
+    "2",
     "Study/Python/Contents.md",
     "Study/Java&Kotlin/@JsonFormat.md",
     "Study/Java&Kotlin/JVM.md",
@@ -176,25 +191,10 @@
     "Images/Pasted image 20240628011525.png",
     "Images/스크린샷 2024-06-24 오후 11.13.48.png",
     "Pasted image 20240628110132.png",
-    "Pasted image 20240628110541.png",
-    "Pasted image 20240628110112 1.png",
-    "Pasted image 20240628110112.png",
     "VM & Container.md",
-    "Pasted image 20240628110523.png",
     "Study/Linux/Untitled.md",
     "Study/Linux",
     "Study/Linux/Untitled",
-    "Study/CS",
-    "Images/Pasted image 20240314230503.png",
-    "Images",
-    "Conference/Additional",
-    "Study/Java/ㅓ프.md",
-    "Study/Java/Reentrant Lock.md",
-    "Images/스크린샷 2024-06-01 오후 2.58.02.png",
-    "Images/스크린샷 2024-06-01 오후 2.46.42.png",
-    "Study/Untitled.md",
-    "Study/Java&Kotlin",
-    "Books/Effective Kotlin/Item 29. 외부 API를 랩(wrap)해서 사용하라.md",
     "Untitled.canvas"
   ]
 }
